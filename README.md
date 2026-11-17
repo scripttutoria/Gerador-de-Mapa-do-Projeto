@@ -30,7 +30,7 @@ O **Mapeador de Projetos** é um script Python que percorre recursivamente uma p
 
 ### Pré-requisitos
 
-- Python 3.6 ou superior
+- Python 3.9.13 ou superior
 
 ### Passos
 
